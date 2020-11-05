@@ -1,2 +1,1 @@
-# Sleep-Data-Analysis
-Thinkful Capstone 3
+#Thinkful Capstone 3
